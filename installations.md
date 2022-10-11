@@ -32,7 +32,7 @@ conda install -c anaconda jupyter
 
 ```bash
 conda create-y --name ironhack
-conda activate -yironhack
+conda activate -yvironhack
 conda install -y -c anaconda ipykernel
 python -m ipykernel install --user --name=ironhack
 conda install -y -c conda-forge jupyter_contrib_nbextensions
